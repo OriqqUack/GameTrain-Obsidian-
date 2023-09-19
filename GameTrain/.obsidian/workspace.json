@@ -1,0 +1,197 @@
+{
+  "main": {
+    "id": "42cb71b3ce02bb64",
+    "type": "split",
+    "children": [
+      {
+        "id": "cef2bbaef2a68d5b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ffd4d5a335a9d3b",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3d21fe4f610c69d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@Projects/할 일.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da6c3d8fd5339beb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0941d36a81e6b738",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0d084f45a90c3b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7ae30fb8eacdcfde",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dcd9dbdd65e7468e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "750fc41614bb958e",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c998786e2650d10f",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5007a3219b59f12",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6700bbfaad22332b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "44255fa30a729cf6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3ad81f0b31eb035e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "de48f60b2d99c03d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "@Projects/College Assignment/롯데월드 및 보험금 납부.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "da6c3d8fd5339beb",
+  "lastOpenFiles": [
+    "@Projects/SW Club_New-Vision/Dungreed  코어 구축.md",
+    "2023-09-20.md",
+    "무제 파일.canvas",
+    "@Area/@Area 운영법.md",
+    "@Resources/College Assignment/Vision Lab Paper Review.md",
+    "@Resources/College Assignment/자격증 응시료 파일 처리.md",
+    "@Projects/할 일.md",
+    "@Projects/College Assignment/그래픽스 과제.md",
+    "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
+    "@Resources/College Assignment",
+    "@Resources/@Resource 운영법.md",
+    "@Projects/@Projects 운영법.md",
+    "@Area/Unity Learning",
+    "@Area/UnrealEngine Learning",
+    "@Projects/Game",
+    "@Projects/UnrealEngine Learning",
+    "@Projects/SW Club_New-Vision",
+    "@Projects/College Assignment",
+    "@Projects",
+    "@Projects/@Project 운영법.md",
+    "@Projects/Assignment",
+    "@Projects/SW Club_New-Vision",
+    "@Projects/Sw Club_New-Vision.md",
+    "@Archive/@Archive 운영법.md"
+  ]
+}
