@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
+                "file": "@Projects/Test/test.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
+                "file": "@Projects/Test/test.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
+                "file": "@Projects/Test/test.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Projects/College Assignment/롯데월드 및 보험금 납부.md"
+                "file": "@Projects/Test/test.md"
               }
             }
           }
@@ -169,15 +169,18 @@
   },
   "active": "da6c3d8fd5339beb",
   "lastOpenFiles": [
+    "@Projects/할 일.md",
+    "@Projects/Test/test.md",
+    "@Projects/Test/Untitled",
+    "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
+    "@Projects/Test",
     "@Projects/SW Club_New-Vision/Dungreed  코어 구축.md",
     "2023-09-20.md",
     "무제 파일.canvas",
     "@Area/@Area 운영법.md",
     "@Resources/College Assignment/Vision Lab Paper Review.md",
     "@Resources/College Assignment/자격증 응시료 파일 처리.md",
-    "@Projects/할 일.md",
     "@Projects/College Assignment/그래픽스 과제.md",
-    "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
     "@Resources/College Assignment",
     "@Resources/@Resource 운영법.md",
     "@Projects/@Projects 운영법.md",
@@ -189,8 +192,6 @@
     "@Projects/College Assignment",
     "@Projects",
     "@Projects/@Project 운영법.md",
-    "@Projects/Assignment",
-    "@Projects/SW Club_New-Vision",
     "@Projects/Sw Club_New-Vision.md",
     "@Archive/@Archive 운영법.md"
   ]
