@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Projects/College Assignment/Calendar Test2.md",
+                "file": "@Area/Daily-Study/2023-09-21.md",
                 "mode": "preview",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Projects/College Assignment/Calendar Test2.md",
+                "file": "@Area/Daily-Study/2023-09-21.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Projects/College Assignment/Calendar Test2.md",
+                "file": "@Area/Daily-Study/2023-09-21.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Projects/College Assignment/Calendar Test2.md"
+                "file": "@Area/Daily-Study/2023-09-21.md"
               }
             }
           },
@@ -178,6 +178,7 @@
   },
   "active": "da6c3d8fd5339beb",
   "lastOpenFiles": [
+    "@Projects/College Assignment/그래픽스 과제.md",
     "@Projects/College Assignment/Calendar Test.md",
     "@Projects/College Assignment/Calendar Test2.md",
     "@Area/Daily-Study/2023-09-21.md",
@@ -191,7 +192,6 @@
     "@Area/D.md",
     "@Resources/@Resource 운영법.md",
     "@Archive/@Archive 운영법.md",
-    "@Projects/College Assignment/그래픽스 과제.md",
     "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
     "@Projects/Test",
     "@Projects/SW Club_New-Vision/Dungreed  코어 구축.md",
