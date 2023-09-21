@@ -33,14 +33,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Area/Daily-Study/2023-09-21.md",
+                "file": "@Archive/Obsidian Test/Calendar Test2.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c9c634acc1baec6b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@Archive/Obsidian Test/Calendar Test.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "42a9eb2278583cd8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Plugin/Note Template/노트 템플릿.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -106,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Area/Daily-Study/2023-09-21.md",
+                "file": "Plugin/Note Template/노트 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Area/Daily-Study/2023-09-21.md",
+                "file": "Plugin/Note Template/노트 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Area/Daily-Study/2023-09-21.md"
+                "file": "Plugin/Note Template/노트 템플릿.md"
               }
             }
           },
@@ -176,21 +200,27 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "da6c3d8fd5339beb",
+  "active": "42a9eb2278583cd8",
   "lastOpenFiles": [
-    "@Projects/College Assignment/Calendar Test2.md",
-    "@Area/Daily-Study/2023-09-21.md",
-    "@Projects/College Assignment/Calendar Test.md",
-    "Plugin/Calendar/연결 노트 검색.md",
+    "@Archive/Obsidian Test/Calendar Test2.md",
     "@Projects/College Assignment/그래픽스 과제.md",
+    "@Resources/@Resource 운영법.md",
+    "Plugin/Calendar/연결 노트 검색.md",
+    "Plugin/Note Template/노트 템플릿.md",
+    "@Area/Daily-Study/2023-09-21.md",
+    "Plugin/Note Template",
+    "Plugin/Calendar/무제 파일.md",
+    "@Archive/Obsidian Test/Calendar Test.md",
+    "@Archive/College Assignment/자격증 응시료 파일 처리.md",
+    "@Archive/Obsidian Test",
+    "@Archive/College Assignment/무제 폴더",
+    "@Archive/Obsidian Test.md",
     "@Area/Daily-Study/2023-09-22.md",
     "@Projects/Test/test.md",
     "Plugin/Calendar",
     "Plugin",
-    "@Archive/College Assignment/자격증 응시료 파일 처리.md",
     "@Area/Daily-Study",
     "@Area/D.md",
-    "@Resources/@Resource 운영법.md",
     "@Archive/@Archive 운영법.md",
     "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
     "@Projects/Test",
@@ -204,9 +234,6 @@
     "@Projects/@Projects 운영법.md",
     "@Area/Unity Learning",
     "@Area/UnrealEngine Learning",
-    "@Projects/Game",
-    "@Projects/UnrealEngine Learning",
-    "@Projects/SW Club_New-Vision",
     "@Projects/@Project 운영법.md",
     "@Projects/Sw Club_New-Vision.md"
   ]
