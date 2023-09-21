@@ -33,7 +33,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Projects/Test/test.md",
+                "file": "@Archive/College Assignment/자격증 응시료 파일 처리.md",
                 "mode": "source",
                 "source": false
               }
@@ -106,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Projects/Test/test.md",
+                "file": "@Archive/College Assignment/자격증 응시료 파일 처리.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Projects/Test/test.md",
+                "file": "@Archive/College Assignment/자격증 응시료 파일 처리.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,8 +146,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Projects/Test/test.md"
+                "file": "@Archive/College Assignment/자격증 응시료 파일 처리.md"
               }
+            }
+          },
+          {
+            "id": "438e5d0a88e913cb",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
             }
           }
         ]
@@ -159,30 +167,34 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "da6c3d8fd5339beb",
   "lastOpenFiles": [
-    "@Projects/할 일.md",
-    "@Projects/Test/test.md",
-    "@Projects/Test/Untitled",
+    "@Area/Daily-Study/2023-09-21.md",
+    "@Area/Daily-Study",
+    "@Area/D.md",
+    "@Archive/College Assignment/자격증 응시료 파일 처리.md",
+    "@Resources/@Resource 운영법.md",
+    "@Archive/@Archive 운영법.md",
+    "@Projects/College Assignment/그래픽스 과제.md",
     "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
+    "@Projects/Test/test.md",
     "@Projects/Test",
     "@Projects/SW Club_New-Vision/Dungreed  코어 구축.md",
     "2023-09-20.md",
     "무제 파일.canvas",
     "@Area/@Area 운영법.md",
-    "@Resources/College Assignment/Vision Lab Paper Review.md",
-    "@Resources/College Assignment/자격증 응시료 파일 처리.md",
-    "@Projects/College Assignment/그래픽스 과제.md",
-    "@Resources/College Assignment",
-    "@Resources/@Resource 운영법.md",
+    "@Archive/College Assignment/Vision Lab Paper Review.md",
+    "@Projects/할 일.md",
+    "@Archive/College Assignment",
     "@Projects/@Projects 운영법.md",
     "@Area/Unity Learning",
     "@Area/UnrealEngine Learning",
@@ -192,7 +204,6 @@
     "@Projects/College Assignment",
     "@Projects",
     "@Projects/@Project 운영법.md",
-    "@Projects/Sw Club_New-Vision.md",
-    "@Archive/@Archive 운영법.md"
+    "@Projects/Sw Club_New-Vision.md"
   ]
 }
