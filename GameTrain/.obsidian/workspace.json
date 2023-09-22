@@ -57,26 +57,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Plugin/Note Template/노트 템플릿.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5d97710c19d39fa6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "무제 파일.md",
+                "file": "@Area/Daily-Study/2023-09-22.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -142,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "@Area/Daily-Study/2023-09-22.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "@Area/Daily-Study/2023-09-22.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "@Area/Daily-Study/2023-09-22.md"
               }
             }
           },
@@ -209,12 +197,16 @@
       "daily-notes:오늘의 데일리 노트 열기": false,
       "templates:템플릿 삽입": false,
       "command-palette:명령어 팔레트 열기": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "5d97710c19d39fa6",
+  "active": "42a9eb2278583cd8",
   "lastOpenFiles": [
+    "@Archive/Obsidian Test/무제 파일.md",
+    "@Area/Daily-Study/2023-09-22.md",
     "Plugin/Note Template/노트 템플릿.md",
+    "Plugin/Calendar/연결 노트 검색.md",
     "무제 파일.md",
     "Plugin/Note Template/무제 파일.md",
     "@Area/무제 파일.md",
@@ -222,7 +214,6 @@
     "@Archive/Obsidian Test/Calendar Test2.md",
     "@Projects/College Assignment/그래픽스 과제.md",
     "@Resources/@Resource 운영법.md",
-    "Plugin/Calendar/연결 노트 검색.md",
     "@Area/Daily-Study/2023-09-21.md",
     "Plugin/Note Template",
     "Plugin/Calendar/무제 파일.md",
@@ -231,7 +222,6 @@
     "@Archive/Obsidian Test",
     "@Archive/College Assignment/무제 폴더",
     "@Archive/Obsidian Test.md",
-    "@Area/Daily-Study/2023-09-22.md",
     "@Projects/Test/test.md",
     "Plugin/Calendar",
     "Plugin",
@@ -249,7 +239,6 @@
     "@Archive/College Assignment",
     "@Projects/@Projects 운영법.md",
     "@Area/Unity Learning",
-    "@Area/UnrealEngine Learning",
-    "@Projects/@Project 운영법.md"
+    "@Area/UnrealEngine Learning"
   ]
 }
