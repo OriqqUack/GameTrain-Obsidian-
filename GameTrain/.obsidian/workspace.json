@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Area/Daily-Study/2023-09-22.md",
+                "file": "Plugin/Note Template/노트 템플릿.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Area/Daily-Study/2023-09-22.md",
+                "file": "Plugin/Note Template/노트 템플릿.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -147,7 +147,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Area/Daily-Study/2023-09-22.md",
+                "file": "Plugin/Note Template/노트 템플릿.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -170,7 +170,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Area/Daily-Study/2023-09-22.md"
+                "file": "Plugin/Note Template/노트 템플릿.md"
               }
             }
           },
@@ -203,12 +203,16 @@
   },
   "active": "42a9eb2278583cd8",
   "lastOpenFiles": [
-    "@Archive/Obsidian Test/무제 파일.md",
+    "@Projects/College Assignment/test3.md",
+    "@Projects/College Assignment/test2.md",
+    "@Projects/t.md",
+    "@Projects/College Assignment/test1.md",
+    "@Projects/College Assignment/test.md",
+    "Plugin/Note Template/노트 템플릿.md",
     "@Area/Daily-Study/2023-09-22.md",
+    "@Archive/Obsidian Test/무제 파일.md",
     "@Archive/Obsidian Test/Calendar Test2.md",
     "Plugin/Calendar/연결 노트 검색.md",
-    "Plugin/Note Template/노트 템플릿.md",
-    "@Projects/College Assignment/test.md",
     "무제 파일.md",
     "Plugin/Note Template/무제 파일.md",
     "@Area/무제 파일.md",
@@ -232,11 +236,7 @@
     "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
     "@Projects/Test",
     "@Projects/SW Club_New-Vision/Dungreed  코어 구축.md",
-    "2023-09-20.md",
     "무제 파일.canvas",
-    "@Area/@Area 운영법.md",
-    "@Archive/College Assignment/Vision Lab Paper Review.md",
-    "@Projects/할 일.md",
     "@Archive/College Assignment",
     "@Area/Unity Learning",
     "@Area/UnrealEngine Learning"
