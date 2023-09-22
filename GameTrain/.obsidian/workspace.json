@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Projects/College Assignment/무제 파일.md",
+                "file": "@Projects/할 일.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Projects/College Assignment/무제 파일.md",
+                "file": "@Projects/할 일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Projects/College Assignment/무제 파일.md",
+                "file": "@Projects/할 일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Projects/College Assignment/무제 파일.md"
+                "file": "@Projects/할 일.md"
               }
             }
           },
@@ -227,14 +227,14 @@
   },
   "active": "60166d0ca0d43df7",
   "lastOpenFiles": [
+    "@Projects/@Projects 운영법.md",
+    "@Projects/College Assignment/프로그래밍 언어 과제.md",
     "@Projects/SW Club_New-Vision/GIT 공부.md",
-    "@Projects/College Assignment/무제 파일.md",
     "@Projects/SW Club_New-Vision/Dungreed  코어 구축.md",
     "@Projects/SW Club_New-Vision/슬랙 방 만들기.md",
     "@Projects/College Assignment/데이터 통신 과제.md",
     "@Projects/할 일.md",
     "@Projects/College Assignment/할 과제.md",
-    "@Projects/@Projects 운영법.md",
     "Plugin/Note Template/노트 템플릿.md",
     "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
     "@Projects/College Assignment/그래픽스 과제.md",
