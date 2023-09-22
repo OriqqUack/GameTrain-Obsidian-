@@ -58,7 +58,7 @@
               "type": "markdown",
               "state": {
                 "file": "Plugin/Note Template/노트 템플릿.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -204,8 +204,8 @@
   "active": "42a9eb2278583cd8",
   "lastOpenFiles": [
     "@Projects/College Assignment/asd.md",
-    "Plugin/Note Template/노트 템플릿.md",
     "@Projects/College Assignment/sA.md",
+    "Plugin/Note Template/노트 템플릿.md",
     "Plugin/Calendar/연결 노트 검색.md",
     "@Projects/College Assignment/test3.md",
     "@Projects/College Assignment/test2.md",
