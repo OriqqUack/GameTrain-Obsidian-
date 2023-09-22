@@ -81,7 +81,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Projects/할 일.md",
+                "file": "@Projects/College Assignment/무제 파일.md",
                 "mode": "source",
                 "source": false
               }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Projects/할 일.md",
+                "file": "@Projects/College Assignment/무제 파일.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Projects/할 일.md",
+                "file": "@Projects/College Assignment/무제 파일.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Projects/할 일.md"
+                "file": "@Projects/College Assignment/무제 파일.md"
               }
             }
           },
@@ -227,9 +227,14 @@
   },
   "active": "60166d0ca0d43df7",
   "lastOpenFiles": [
+    "@Projects/SW Club_New-Vision/GIT 공부.md",
+    "@Projects/College Assignment/무제 파일.md",
+    "@Projects/SW Club_New-Vision/Dungreed  코어 구축.md",
+    "@Projects/SW Club_New-Vision/슬랙 방 만들기.md",
+    "@Projects/College Assignment/데이터 통신 과제.md",
+    "@Projects/할 일.md",
     "@Projects/College Assignment/할 과제.md",
     "@Projects/@Projects 운영법.md",
-    "@Projects/할 일.md",
     "Plugin/Note Template/노트 템플릿.md",
     "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
     "@Projects/College Assignment/그래픽스 과제.md",
@@ -248,11 +253,6 @@
     "@Projects/College Assignment/test1.md",
     "@Projects/College Assignment/test.md",
     "@Projects/t.md",
-    "@Archive/Obsidian Test/무제 파일.md",
-    "무제 파일.md",
-    "@Area/무제 파일.md",
-    "Plugin/무제 파일.md",
-    "@Resources/@Resource 운영법.md",
     "Plugin/Note Template",
     "@Archive/Obsidian Test",
     "@Archive/College Assignment/무제 폴더",
