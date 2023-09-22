@@ -1,0 +1,5 @@
+{
+  "askBeforeMerging": true,
+  "template": "Plugin/Note Template/노트 템플릿",
+  "replacementText": "link"
+}
