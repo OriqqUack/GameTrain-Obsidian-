@@ -81,8 +81,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Projects/할 일.md",
-                "mode": "source",
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -154,7 +154,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Projects/할 일.md",
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -171,7 +171,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Projects/할 일.md",
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -194,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Projects/할 일.md"
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren.md"
               }
             }
           },
@@ -227,23 +227,25 @@
   },
   "active": "60166d0ca0d43df7",
   "lastOpenFiles": [
+    "@Area/Daily-Study/2023-09-24.md",
+    "@Area/Daily-Study/2023-09-22.md",
+    "@Area/Daily-Study/2023-09-21.md",
+    "Plugin/Note Template/노트 템플릿.md",
+    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren.md",
+    "@Projects/할 일.md",
     "@Projects/@Projects 운영법.md",
     "@Projects/College Assignment/프로그래밍 언어 과제.md",
     "@Projects/SW Club_New-Vision/GIT 공부.md",
     "@Projects/SW Club_New-Vision/Dungreed  코어 구축.md",
     "@Projects/SW Club_New-Vision/슬랙 방 만들기.md",
     "@Projects/College Assignment/데이터 통신 과제.md",
-    "@Projects/할 일.md",
     "@Projects/College Assignment/할 과제.md",
-    "Plugin/Note Template/노트 템플릿.md",
     "@Projects/College Assignment/롯데월드 및 보험금 납부.md",
     "@Projects/College Assignment/그래픽스 과제.md",
     "Plugin/Note Template/과제 템플릿.md",
     "@Archive/Obsidian Test/Calendar Test.md",
     "@Projects/College Assignment/sA.md",
     "@Projects/College Assignment/asd.md",
-    "@Area/Daily-Study/2023-09-22.md",
-    "@Area/Daily-Study/2023-09-21.md",
     "@Archive/Obsidian Test/Calendar Test2.md",
     "@Archive/College Assignment/자격증 응시료 파일 처리.md",
     "@Archive/College Assignment/Vision Lab Paper Review.md",
@@ -251,8 +253,6 @@
     "@Projects/College Assignment/test3.md",
     "@Projects/College Assignment/test2.md",
     "@Projects/College Assignment/test1.md",
-    "@Projects/College Assignment/test.md",
-    "@Projects/t.md",
     "Plugin/Note Template",
     "@Archive/Obsidian Test",
     "@Archive/College Assignment/무제 폴더",
