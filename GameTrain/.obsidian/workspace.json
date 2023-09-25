@@ -105,7 +105,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Projects/할 일.md",
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Projects/할 일.md",
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -195,7 +195,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Projects/할 일.md",
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -218,7 +218,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Projects/할 일.md"
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren.md"
               }
             }
           },
@@ -251,11 +251,11 @@
   },
   "active": "07e07e17c0dd6783",
   "lastOpenFiles": [
-    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren.md",
+    "@Area/Daily-Study/2023-09-24.md",
     "@Projects/할 일.md",
+    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren.md",
     "@Area/Daily-Study/2023-09-21.md",
     "@Area/Daily-Study/2023-09-22.md",
-    "@Area/Daily-Study/2023-09-24.md",
     "Plugin/Calendar/연결 노트 검색.md",
     "Plugin/Note Template/과제 템플릿.md",
     "Plugin/Note Template/노트 템플릿.md",
