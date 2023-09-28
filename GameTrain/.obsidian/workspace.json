@@ -117,8 +117,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object/무한맵 생성.md",
-                "mode": "source",
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md",
+                "mode": "preview",
                 "source": false
               }
             }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object/무한맵 생성.md",
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object/무한맵 생성.md",
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object/무한맵 생성.md"
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md"
               }
             }
           },
@@ -263,8 +263,8 @@
   },
   "active": "aceea7f8baf49b6e",
   "lastOpenFiles": [
-    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md",
     "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object/무한맵 생성.md",
+    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md",
     "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object",
     "@Area/Unity Learning/Vampire Survivor_Imitation for Infren",
     "@Area/Daily-Study/2023-09-28.md",
