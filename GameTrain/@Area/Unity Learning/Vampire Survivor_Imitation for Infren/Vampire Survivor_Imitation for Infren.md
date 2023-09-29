@@ -15,4 +15,9 @@
 ## UI 개선
 
 1. 팝업인지 씬인지 구별
-2. 
+2. 씬에 바로 올리는 것이 아닌 UI -> Image 를 클릭해서 Image를 만들고 거기에 Sprite를 덮어 주자.
+3. UI가 작동하는지 확인하는 절차
+	1.  UI의 *RayCast*가 켜져 있거나 불필요한 UI의 RayCast가 꺼져있는지 확인.
+	2. Hierachy창에 *EventSystem* 존재 유무 확인.
+4. 
+	
