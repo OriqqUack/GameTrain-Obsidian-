@@ -117,7 +117,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Area/Daily-Study/2023-09/2023-09-21.md",
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md",
                 "mode": "source",
                 "source": false
               }
@@ -190,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Area/Daily-Study/2023-09/2023-09-21.md",
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Area/Daily-Study/2023-09/2023-09-21.md",
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Area/Daily-Study/2023-09/2023-09-21.md"
+                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md"
               }
             }
           },
@@ -261,15 +261,15 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "7ae30fb8eacdcfde",
+  "active": "aceea7f8baf49b6e",
   "lastOpenFiles": [
+    "@Area/Daily-Study/2023-10/2023-10-01.md",
     "@Area/Daily-Study/2023-10",
     "@Projects/할 일.md",
     "@Area/Daily-Study/2023-09",
     "@Projects/SW Club_New-Vision/Dungreed  코어 구축.md",
     "@Projects/College Assignment/자기소개서 쓰기.md",
     "@Projects/College Assignment/영어 면접 준비.md",
-    "@Area/Daily-Study/2023-10/2023-10-01.md",
     "@Area/Daily-Study/2023-09/2023-09-30.md",
     "@Area/Daily-Study/2023-09/2023-09-22.md",
     "@Area/Daily-Study/2023-09/2023-09-24.md",
@@ -298,7 +298,6 @@
     "@Archive/College Assignment/무제 폴더",
     "Plugin/Calendar",
     "Plugin",
-    "@Area/Daily-Study",
     "무제 파일.canvas"
   ]
 }
