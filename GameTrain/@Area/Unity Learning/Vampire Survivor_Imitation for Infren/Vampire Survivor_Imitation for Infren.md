@@ -19,5 +19,6 @@
 3. UI가 작동하는지 확인하는 절차
 	1.  UI의 *RayCast*가 켜져 있거나 불필요한 UI의 RayCast가 꺼져있는지 확인.
 	2. Hierachy창에 *EventSystem* 존재 유무 확인.
-4. 
+4. UI는 자동화가 되는 게 편하다. 강의에선 *SetInfo(), RefreshUI()* 를 통해서 관리함.
+5. 
 	
