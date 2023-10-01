@@ -20,6 +20,6 @@
 	1.  UI의 *RayCast*가 켜져 있거나 불필요한 UI의 RayCast가 꺼져있는지 확인.
 	2. Hierachy창에 *EventSystem* 존재 유무 확인.
 4. UI는 자동화가 되는 게 편하다. 강의에선 *SetInfo(), RefreshUI()* 를 통해서 관리함.
-5. UI를 그리기 위한 스크립트와 데이터 스크립트를 따로 만들어라. UI_GameScene <> GameManager
-6. 
+5. UI를 그리기 위한 스크립트와 데이터 스크립트를 따로 만들어라. UI_GameScene <> GameManager. 지금은 규모가 작아서  GameManger에서 다 관리하지만 규모가 커지면 Invetory 처럼 각각 만들어서 데이터 관리를 해야한다.
+6. 자시만의 규칙을 만들어라. ex) UI는 따로 스크립트를 파고 
 	
