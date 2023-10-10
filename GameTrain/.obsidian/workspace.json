@@ -21,110 +21,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Projects/할 일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "da6c3d8fd5339beb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Archive/Obsidian Test/Calendar Test2.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c9c634acc1baec6b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Projects/할 일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b9dad5fa943fef3d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Projects/할 일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b4ce034365da275c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Projects/@Projects 운영법.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60166d0ca0d43df7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Projects/할 일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f23421b317d29205",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Projects/할 일.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07e07e17c0dd6783",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aceea7f8baf49b6e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/BSP 알고리즘.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "8a3e7ce56f52ec33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/알고리즘 스크립트.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -190,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/BSP 알고리즘.md",
+                "file": "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/알고리즘 스크립트.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -207,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/BSP 알고리즘.md",
+                "file": "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/알고리즘 스크립트.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -230,77 +146,67 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/BSP 알고리즘.md"
+                "file": "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/알고리즘 스크립트.md"
               }
             }
-          },
-          {
-            "id": "438e5d0a88e913cb",
-            "type": "leaf",
-            "state": {
-              "type": "calendar",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:퀵 스위처 열기": false,
-      "graph:그래프 뷰 열기": false,
-      "canvas:새 캔버스 만들기": false,
-      "daily-notes:오늘의 데일리 노트 열기": false,
-      "templates:템플릿 삽입": false,
-      "command-palette:명령어 팔레트 열기": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
     }
   },
-  "active": "aceea7f8baf49b6e",
+  "active": "8a3e7ce56f52ec33",
   "lastOpenFiles": [
-    "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/알고리즘 스크립트.md",
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/BSP 알고리즘.md",
-    "Pasted image 20231009152604.png",
-    "Pasted image 20231009151654.png",
+    "[알고리즘 스크립트.md",
+    "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/알고리즘 스크립트.md",
+    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object/무한맵 생성.md",
+    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md",
+    "@Projects/할 일.md",
+    "@Projects/Test/test.md",
     "Plugin/Note Template/노트 템플릿.md",
     "Plugin/Note Template/과제 템플릿.md",
-    "@Projects/SW Club_New-Vision/Dungreed  코어 구축.md",
     "Plugin/Calendar/연결 노트 검색.md",
-    "@Area/Daily-Study/2023-10/2023-10-09.md",
-    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md",
-    "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object",
-    "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation",
-    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object/무한맵 생성.md",
-    "@Area/Unity Learning/Sw Club_New-Vision",
-    "@Archive/College Assignment/영어 면접 준비.md",
-    "@Projects/College Assignment/자기소개서 쓰기.md",
-    "@Projects/할 일.md",
-    "@Archive/College Assignment/프로그래밍 언어 과제.md",
-    "@Area/Daily-Study/2023-10/2023-10-01.md",
-    "@Area/Daily-Study/2023-10",
-    "@Area/Daily-Study/2023-09",
-    "@Area/Daily-Study/2023-09/2023-09-30.md",
-    "@Area/Daily-Study/2023-09/2023-09-22.md",
-    "@Area/Daily-Study/2023-09/2023-09-24.md",
-    "@Area/Daily-Study/2023-09/2023-09-28.md",
-    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object",
-    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren",
-    "@Archive/SW Club_New Vision/슬랙 방 만들기.md",
-    "@Archive/Obsidian Test/무제 파일.md",
-    "@Archive/SW Club_New Vision",
-    "@Archive/College Assignment/자격증 응시료 파일 처리.md",
-    "@Area/Daily-Study/2023-09/2023-09-21.md",
-    "@Projects/@Projects 운영법.md",
-    "@Archive/SW Club_New Vision/GIT 공부.md",
-    "@Archive/College Assignment/데이터 통신 과제.md",
-    "@Projects/College Assignment/할 과제.md",
     "Plugin/Note Template",
-    "@Archive/Obsidian Test",
+    "Plugin/Calendar",
+    "Plugin",
+    "Pasted image 20231009152604.png",
+    "Pasted image 20231009151654.png",
+    "@Projects/College Assignment/자기소개서 쓰기.md",
+    "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object",
+    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object",
+    "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation",
+    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren",
+    "@Area/Unity Learning/Sw Club_New-Vision",
+    "@Area/Unity Learning",
+    "@Area/Daily-Study/2023-10/2023-10-09.md",
+    "@Area/Daily-Study/2023-10/2023-10-01.md",
+    "@Area/Daily-Study/2023-09/2023-09-30.md",
+    "@Area/Daily-Study/2023-09/2023-09-28.md",
+    "@Area/Daily-Study/2023-09/2023-09-24.md",
+    "@Area/Daily-Study/2023-09/2023-09-22.md",
+    "@Area/Daily-Study/2023-09/2023-09-21.md",
+    "@Area/Daily-Study/2023-10",
+    "@Archive/SW Club_New Vision/슬랙 방 만들기.md",
+    "@Archive/SW Club_New Vision/GIT 공부.md",
+    "@Archive/Obsidian Test/무제 파일.md",
+    "@Archive/Obsidian Test/Calendar Test2.md",
+    "@Archive/Obsidian Test/Calendar Test.md",
+    "@Archive/College Assignment/프로그래밍 언어 과제.md",
+    "@Archive/College Assignment/자격증 응시료 파일 처리.md",
+    "@Archive/College Assignment/영어 면접 준비.md",
     "무제 파일.canvas"
   ]
 }
