@@ -115,9 +115,11 @@
             "id": "aceea7f8baf49b6e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20231009151654.png"
+                "file": "@Projects/College Assignment/디지털 이미징 발표 준비.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -188,7 +190,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231009151654.png",
+                "file": "@Projects/College Assignment/디지털 이미징 발표 준비.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +207,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231009151654.png",
+                "file": "@Projects/College Assignment/디지털 이미징 발표 준비.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +230,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231009151654.png"
+                "file": "@Projects/College Assignment/디지털 이미징 발표 준비.md"
               }
             }
           },
@@ -249,20 +251,29 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
-      "graph:Open graph view": false,
-      "canvas:Create new canvas": false,
-      "daily-notes:Open today's daily note": false,
-      "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "periodic-notes:Open today": false,
-      "templater-obsidian:Templater": false
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:새 캔버스 만들기": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false,
+      "templater-obsidian:Templater": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "aceea7f8baf49b6e",
   "lastOpenFiles": [
-    "Pasted image 20231009152604.png",
+    "@Projects/College Assignment/목요일 데이터 통신 정리.md",
+    "@Projects/College Assignment/디지털 이미징 발표 준비.md",
+    "@Projects/College Assignment/SW 아이디어 발표 2시.md",
+    "@Projects/College Assignment/토익 시험.md",
+    "@Projects/할 일.md",
+    "@Archive/College Assignment/프로그래밍 언어 과제.md",
+    "@Archive/College Assignment/자격증 응시료 파일 처리.md",
+    "@Archive/College Assignment/영어 면접 준비.md",
+    "@Archive/College Assignment/자기소개서 쓰기.md",
     "Pasted image 20231009151654.png",
+    "Pasted image 20231009152604.png",
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/생각 노트.md",
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/BSP 알고리즘.md",
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/알고리즘 스크립트.md",
@@ -277,10 +288,6 @@
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation",
     "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object/무한맵 생성.md",
     "@Area/Unity Learning/Sw Club_New-Vision",
-    "@Archive/College Assignment/영어 면접 준비.md",
-    "@Projects/College Assignment/자기소개서 쓰기.md",
-    "@Projects/할 일.md",
-    "@Archive/College Assignment/프로그래밍 언어 과제.md",
     "@Area/Daily-Study/2023-10/2023-10-01.md",
     "@Area/Daily-Study/2023-10",
     "@Area/Daily-Study/2023-09",
@@ -291,11 +298,7 @@
     "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object",
     "@Area/Unity Learning/Vampire Survivor_Imitation for Infren",
     "@Archive/SW Club_New Vision/슬랙 방 만들기.md",
-    "@Archive/Obsidian Test/무제 파일.md",
     "@Archive/SW Club_New Vision",
-    "@Archive/College Assignment/자격증 응시료 파일 처리.md",
-    "@Area/Daily-Study/2023-09/2023-09-21.md",
-    "@Projects/@Projects 운영법.md",
     "Plugin/Note Template",
     "@Archive/Obsidian Test",
     "무제 파일.canvas"
