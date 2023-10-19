@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "@Projects/SW Club_New-Vision/Untitled.md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "@Projects/SW Club_New-Vision/Untitled.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "conflict-files-obsidian-git.md",
+                "file": "@Projects/SW Club_New-Vision/Untitled.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "conflict-files-obsidian-git.md"
+                "file": "@Projects/SW Club_New-Vision/Untitled.md"
               }
             }
           },
@@ -279,28 +279,31 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false,
-      "periodic-notes:Open today": false
+      "periodic-notes:Open today": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "da705532bf9b6196",
   "lastOpenFiles": [
+    "Plugin/Note Template/노트 템플릿.md",
+    "Plugin/Note Template/과제 템플릿.md",
+    "@Projects/SW Club_New-Vision/Untitled.md",
+    "[알고리즘 스크립트.md",
+    "@Archive/SW Club_New Vision/슬랙 방 만들기.md",
+    "@Archive/SW Club_New Vision/Dungreed  코어 구축.md",
+    "@Archive/SW Club_New Vision/GIT 공부.md",
+    "@Projects/College Assignment/토익 시험.md",
+    "@Projects/College Assignment/SW 아이디어 발표 2시.md",
+    "@Projects/College Assignment/목요일 데이터 통신 정리.md",
+    "@Projects/College Assignment/디지털 이미징 발표 준비.md",
     "@Projects/College Assignment/디지털 이미징 레포트 작성.md",
     "conflict-files-obsidian-git.md",
     "Pasted image 20231009151654.png",
-    "@Projects/College Assignment/토익 시험.md",
-    "@Projects/College Assignment/목요일 데이터 통신 정리.md",
-    "@Projects/College Assignment/디지털 이미징 발표 준비.md",
-    "@Projects/College Assignment/SW 아이디어 발표 2시.md",
     "@Archive/College Assignment/자기소개서 쓰기.md",
     "Pasted image 20231009152604.png",
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/생각 노트.md",
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/BSP 알고리즘.md",
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/알고리즘 스크립트.md",
-    "[알고리즘 스크립트.md",
-    "Plugin/Note Template/노트 템플릿.md",
-    "Plugin/Note Template/과제 템플릿.md",
-    "@Projects/SW Club_New-Vision/Dungreed  코어 구축.md",
     "Plugin/Calendar/연결 노트 검색.md",
     "@Area/Daily-Study/2023-10/2023-10-09.md",
     "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md",
@@ -315,8 +318,6 @@
     "@Area/Daily-Study/2023-10/2023-10-01.md",
     "@Area/Daily-Study/2023-10",
     "@Area/Daily-Study/2023-09",
-    "@Area/Daily-Study/2023-09/2023-09-30.md",
-    "@Area/Daily-Study/2023-09/2023-09-22.md",
     "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object",
     "@Area/Unity Learning/Vampire Survivor_Imitation for Infren",
     "@Archive/SW Club_New Vision",
