@@ -120,9 +120,33 @@
                 "file": "Pasted image 20231009151654.png"
               }
             }
+          },
+          {
+            "id": "52f9363e40515730",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "@Projects/College Assignment/디지털 이미징 레포트 작성.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "da705532bf9b6196",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 9
+        "currentTab": 11
       }
     ],
     "direction": "vertical"
@@ -188,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pasted image 20231009151654.png",
+                "file": "conflict-files-obsidian-git.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -205,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pasted image 20231009151654.png",
+                "file": "conflict-files-obsidian-git.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -228,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pasted image 20231009151654.png"
+                "file": "conflict-files-obsidian-git.md"
               }
             }
           },
@@ -259,10 +283,17 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "aceea7f8baf49b6e",
+  "active": "da705532bf9b6196",
   "lastOpenFiles": [
-    "Pasted image 20231009152604.png",
+    "@Projects/College Assignment/디지털 이미징 레포트 작성.md",
+    "conflict-files-obsidian-git.md",
     "Pasted image 20231009151654.png",
+    "@Projects/College Assignment/토익 시험.md",
+    "@Projects/College Assignment/목요일 데이터 통신 정리.md",
+    "@Projects/College Assignment/디지털 이미징 발표 준비.md",
+    "@Projects/College Assignment/SW 아이디어 발표 2시.md",
+    "@Archive/College Assignment/자기소개서 쓰기.md",
+    "Pasted image 20231009152604.png",
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/생각 노트.md",
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/BSP 알고리즘.md",
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/알고리즘 스크립트.md",
@@ -286,16 +317,9 @@
     "@Area/Daily-Study/2023-09",
     "@Area/Daily-Study/2023-09/2023-09-30.md",
     "@Area/Daily-Study/2023-09/2023-09-22.md",
-    "@Area/Daily-Study/2023-09/2023-09-24.md",
-    "@Area/Daily-Study/2023-09/2023-09-28.md",
     "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object",
     "@Area/Unity Learning/Vampire Survivor_Imitation for Infren",
-    "@Archive/SW Club_New Vision/슬랙 방 만들기.md",
-    "@Archive/Obsidian Test/무제 파일.md",
     "@Archive/SW Club_New Vision",
-    "@Archive/College Assignment/자격증 응시료 파일 처리.md",
-    "@Area/Daily-Study/2023-09/2023-09-21.md",
-    "@Projects/@Projects 운영법.md",
     "Plugin/Note Template",
     "@Archive/Obsidian Test",
     "무제 파일.canvas"
