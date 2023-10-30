@@ -139,7 +139,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object/AsyncOperation.md",
+                "file": "@Area/English_Conversation/English Speaking(Session 1).md",
                 "mode": "source",
                 "source": false
               }
@@ -212,7 +212,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object/AsyncOperation.md",
+                "file": "@Area/English_Conversation/English Speaking(Session 1).md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -229,7 +229,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object/AsyncOperation.md",
+                "file": "@Area/English_Conversation/English Speaking(Session 1).md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -252,7 +252,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object/AsyncOperation.md"
+                "file": "@Area/English_Conversation/English Speaking(Session 1).md"
               }
             }
           },
@@ -285,6 +285,12 @@
   },
   "active": "da705532bf9b6196",
   "lastOpenFiles": [
+    "@Area/Daily-Study/2023-10/2023-10-01.md",
+    "@Area/English_Conversation/English Speaking(Session 1).md",
+    "@Area/English_Conversation",
+    "@Area/Daily-Study/2023-10/2023-10-09.md",
+    "@Area/Daily-Study/2023-10/2023-10-30.md",
+    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object/AsyncOperation.md",
     "@Projects/SW Club_New-Vision/던그리드 맵 구현.md",
     "Plugin/Note Template/노트 템플릿.md",
     "Plugin/Note Template/과제 템플릿.md",
@@ -305,24 +311,18 @@
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/BSP 알고리즘.md",
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object/알고리즘 스크립트.md",
     "Plugin/Calendar/연결 노트 검색.md",
-    "@Area/Daily-Study/2023-10/2023-10-09.md",
     "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Vampire Survivor_Imitation for Infren.md",
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation/Object",
     "@Area/Unity Learning/Sw Club_New-Vision/Dugnreed_Imitation",
-    "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object/AsyncOperation.md",
     "@Area/Unity Learning/Sw Club_New-Vision",
     "@Archive/College Assignment/영어 면접 준비.md",
     "@Projects/College Assignment/자기소개서 쓰기.md",
-    "@Projects/할 일.md",
-    "@Archive/College Assignment/프로그래밍 언어 과제.md",
-    "@Area/Daily-Study/2023-10/2023-10-01.md",
     "@Area/Daily-Study/2023-10",
     "@Area/Daily-Study/2023-09",
     "@Area/Unity Learning/Vampire Survivor_Imitation for Infren/Object",
     "@Area/Unity Learning/Vampire Survivor_Imitation for Infren",
     "@Archive/SW Club_New Vision",
     "Plugin/Note Template",
-    "@Archive/Obsidian Test",
     "무제 파일.canvas"
   ]
 }
